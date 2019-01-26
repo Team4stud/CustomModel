@@ -1,0 +1,1 @@
+./darknet detector train cfg/triangle-tiny.data cfg/triangle-tiny.cfg darknet53.conv.74 
